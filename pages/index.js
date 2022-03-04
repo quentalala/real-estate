@@ -41,7 +41,7 @@ const Banner = ({
         <br />
         {desc2}
       </Text>
-      <Button fontSize={"xl"} bg="blue.300" color={"white"}>
+      <Button fontSize={"xl"}>
         <Link href={linkName}>{buttonText}</Link>
       </Button>
     </Box>
